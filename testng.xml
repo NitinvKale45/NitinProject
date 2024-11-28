@@ -1,0 +1,12 @@
+<suite name="TodoMVC Test Suite">
+    <test name="Positive Tests">
+        <classes>
+            <class name="tests.PositiveTests"/>
+        </classes>
+    </test>
+    <test name="Negative Tests">
+        <classes>
+            <class name="tests.NegativeTests"/>
+        </classes>
+    </test>
+</suite>
